@@ -6,3 +6,6 @@ lib
 es
 coverage
 _book
+.idea/jsLibraryMappings.xml
+*.xml
+.idea/redux_my.iml
